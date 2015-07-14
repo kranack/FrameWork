@@ -1,0 +1,19 @@
+
+Stuff that should be coming
+
+
+
+
+==========================TODO LIST==============================
+
+
+-Hitbox easy management 
+
+-level-designer :
+	placing structures with mouse
+
+-Documentation
+
+-Place structures with SDL positions
+
+-Interactive 
